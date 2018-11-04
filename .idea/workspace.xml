@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e000f794-63e9-4a6b-8305-bf3d54f7becd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/liucheng/closepackage.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastruts/DataStruts.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastruts/findlist.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datastruts/sortlist.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liucheng/closerList.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liucheng/closerStr.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/liucheng/closeuse.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/testGroovy/liucheng/LoopTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/testGroovy/liucheng/LoopTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/liucheng/LoopTest.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/liucheng/LoopTest.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/liucheng/closepackage.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/liucheng/closepackage.groovy" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,35 +37,39 @@
     <session id="1569856658">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="groovy" value="5" />
+          <entry key="groovy" value="11" />
+          <entry key="java" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="Groovy" value="5" />
+          <entry key="Groovy" value="11" />
+          <entry key="JAVA" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="groovy" value="1567" />
-          <entry key="txt" value="14" />
+          <entry key="groovy" value="3395" />
+          <entry key="java" value="77" />
+          <entry key="txt" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="1567" />
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="Groovy" value="3395" />
+          <entry key="JAVA" value="77" />
+          <entry key="PLAIN_TEXT" value="38" />
         </counts>
       </usages-collector>
     </session>
@@ -68,33 +77,49 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/varible/GstringTest.groovy">
+        <entry file="file://$PROJECT_DIR$/src/liucheng/closerStr.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="50" selection-start-line="50" selection-end-line="50" />
+            <state relative-caret-position="221">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/liucheng/LoopTest.groovy">
+        <entry file="file://$PROJECT_DIR$/src/datastruts/DataStruts.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="49" column="11" lean-forward="true" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+            <state relative-caret-position="275">
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/datastruts/sortlist.groovy">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="321">
+              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/liucheng/closepackage.groovy">
+        <entry file="file://$PROJECT_DIR$/src/datastruts/findlist.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="371">
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -107,6 +132,15 @@
         <option value="$PROJECT_DIR$/src/varible/GstringTest.groovy" />
         <option value="$PROJECT_DIR$/src/liucheng/LoopTest.groovy" />
         <option value="$PROJECT_DIR$/src/liucheng/closepackage.groovy" />
+        <option value="$PROJECT_DIR$/src/liucheng/closeuse.groovy" />
+        <option value="$PROJECT_DIR$/src/liucheng/closerList.java" />
+        <option value="$PROJECT_DIR$/src/liucheng/closerStr.java" />
+        <option value="$PROJECT_DIR$/src/liucheng/weituoMethod.groovy" />
+        <option value="$PROJECT_DIR$/src/datastruts/DataStruts.java" />
+        <option value="$PROJECT_DIR$/src/liucheng/closerStr.groovy" />
+        <option value="$PROJECT_DIR$/src/datastruts/DataStruts.groovy" />
+        <option value="$PROJECT_DIR$/src/datastruts/sortlist.groovy" />
+        <option value="$PROJECT_DIR$/src/datastruts/findlist.groovy" />
       </list>
     </option>
   </component>
@@ -202,6 +236,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -218,13 +255,13 @@
               <item name="testGroovy" type="b2602c69:ProjectViewProjectNode" />
               <item name="testGroovy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="liucheng" type="462c0819:PsiDirectoryNode" />
+              <item name="datastruts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testGroovy" type="b2602c69:ProjectViewProjectNode" />
               <item name="testGroovy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="varible" type="462c0819:PsiDirectoryNode" />
+              <item name="liucheng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="testGroovy" type="b2602c69:ProjectViewProjectNode" />
@@ -234,15 +271,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541300552022" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541337412678" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -259,28 +293,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Groovy.closepackage">
-    <configuration name="Testsss" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Testsss" />
+  <component name="RunManager" selected="Groovy.findlist">
+    <configuration name="DataStruts" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="testGroovy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GstringTest" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
-      <module name="testGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/varible/GstringTest.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/datastruts/DataStruts.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/varible" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/datastruts" />
       <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopTest" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="closerStr" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="testGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/liucheng/LoopTest.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/liucheng/closerStr.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$/src/liucheng" />
@@ -289,42 +316,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Varibletest" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="closeuse" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="testGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/varible/Varibletest.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/liucheng/closeuse.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/varible" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/liucheng" />
       <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="closepackage" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="findlist" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="testGroovy" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/liucheng/closepackage.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/datastruts/findlist.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/liucheng" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/datastruts" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sortlist" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="testGroovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/datastruts/sortlist.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/datastruts" />
       <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Testsss" />
-      <item itemvalue="Groovy.Varibletest" />
-      <item itemvalue="Groovy.GstringTest" />
-      <item itemvalue="Groovy.LoopTest" />
-      <item itemvalue="Groovy.closepackage" />
+      <item itemvalue="Groovy.closeuse" />
+      <item itemvalue="Groovy.closerStr" />
+      <item itemvalue="Groovy.DataStruts" />
+      <item itemvalue="Groovy.sortlist" />
+      <item itemvalue="Groovy.findlist" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Groovy.closepackage" />
-        <item itemvalue="Groovy.LoopTest" />
-        <item itemvalue="Groovy.GstringTest" />
-        <item itemvalue="Groovy.Varibletest" />
-        <item itemvalue="Application.Testsss" />
+        <item itemvalue="Groovy.findlist" />
+        <item itemvalue="Groovy.sortlist" />
+        <item itemvalue="Groovy.DataStruts" />
+        <item itemvalue="Groovy.closerStr" />
+        <item itemvalue="Groovy.closeuse" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +378,8 @@
       <updated>1540472002040</updated>
       <workItem from="1540472005755" duration="252000" />
       <workItem from="1541250709445" duration="5787000" />
-      <workItem from="1541295051798" duration="1642000" />
+      <workItem from="1541295051798" duration="1724000" />
+      <workItem from="1541324208951" duration="7170000" />
     </task>
     <task id="LOCAL-00001" summary="first">
       <created>1541255514834</created>
@@ -349,16 +388,24 @@
       <option name="project" value="LOCAL" />
       <updated>1541255514834</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="psv">
+      <created>1541300570023</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541300570023</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7681000" />
+    <option name="totallyTimeSpent" value="14933000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22989276" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23324397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -367,8 +414,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.398017" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -396,7 +443,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="psv" />
+    <option name="LAST_COMMIT_MESSAGE" value="psv" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Testsss.groovy">
@@ -422,22 +470,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/varible/GstringTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
+        <state relative-caret-position="1250">
           <caret line="50" selection-start-line="50" selection-end-line="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/liucheng/LoopTest.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="49" column="11" lean-forward="true" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
+        <state relative-caret-position="1225">
+          <caret line="49" column="11" selection-start-line="49" selection-start-column="11" selection-end-line="49" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/liucheng/closepackage.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="247">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/liucheng/closeuse.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/liucheng/closerList.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/liucheng/weituoMethod.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/liucheng/closerStr.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastruts/DataStruts.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastruts/sortlist.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/datastruts/findlist.groovy">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
